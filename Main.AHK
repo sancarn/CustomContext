@@ -18,14 +18,14 @@ $RButton::
 		x := desk_width - 400
 	}
 	
-	Icon,AHK Script (.ahk),U:\Macros\_Developer Templates\Icons\AHK.png
-	Icon,MapBasic Header (.def),U:\Macros\_Developer Templates\Icons\DEF.png
-	Icon,MapBasic File (.mb),U:\Macros\_Developer Templates\Icons\MB.png
-	Icon,MapBasic Project (.mbp),U:\Macros\_Developer Templates\Icons\MBP.png
-	Icon,MapInfo Workspace (.wor),U:\Macros\_Developer Templates\Icons\WOR.png
-	Icon,MapInfo Project (.mip),U:\Macros\_Developer Templates\Icons\MIP.png
-	Icon,Ruby Script (.rb),U:\Macros\_Developer Templates\Icons\RB.png
-	Icon,Macro Enabled Workbook (.xlsm),U:\Macros\_Developer Templates\Icons\XLSM.png
+	menu,mymenu,Icon,AHK Script (.ahk),U:\Macros\_Developer Templates\Icons\AHK.png
+	menu,mymenu,Icon,MapBasic Header (.def),U:\Macros\_Developer Templates\Icons\DEF.png
+	menu,mymenu,Icon,MapBasic File (.mb),U:\Macros\_Developer Templates\Icons\MB.png
+	menu,mymenu,Icon,MapBasic Project (.mbp),U:\Macros\_Developer Templates\Icons\MBP.png
+	menu,mymenu,Icon,MapInfo Workspace (.wor),U:\Macros\_Developer Templates\Icons\WOR.png
+	menu,mymenu,Icon,MapInfo Project (.mip),U:\Macros\_Developer Templates\Icons\MIP.png
+	menu,mymenu,Icon,Ruby Script (.rb),U:\Macros\_Developer Templates\Icons\RB.png
+	menu,mymenu,Icon,Macro Enabled Workbook (.xlsm),U:\Macros\_Developer Templates\Icons\XLSM.png
 	
 	
 	; ---------------------------
